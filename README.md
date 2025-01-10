@@ -120,9 +120,9 @@ In principle, the proposed AdAdaGrad can be applied to any model (as `nn.Module`
 If you find this repository useful for your research, please consider citing the following paper:
 ```
 @article{lau2024adadagrad,
-	title={\textsc{AdAdaGrad}: Adaptive Batch Size Schemes for Adaptive Gradient Methods},
-	author={Lau, Tim Tsz-Kit and Han Liu and Mladen Kolar},
-	year={2024},
-	journal={arXiv preprint arXiv:2402.11215}
+  title={\textsc{AdAdaGrad}: Adaptive Batch Size Schemes for Adaptive Gradient Methods},
+  author={Lau, Tim Tsz-Kit and Han Liu and Mladen Kolar},
+  year={2024},
+  journal={arXiv preprint arXiv:2402.11215}
 }
 ```
